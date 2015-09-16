@@ -9,7 +9,7 @@ $xml = '
 <row no="1">
 <FL val="Lead Source">Web Download</FL>
 <FL val="Company">Huguntu</FL>
-<FL val="First Name">Hannah</FL>
+<FL val="First Name">Huguntu</FL>
 <FL val="Last Name">Smith</FL>
 <FL val="Email">testing@testing.com</FL>
 <FL val="Title">Manager</FL>
@@ -18,6 +18,8 @@ $xml = '
 <FL val="Other Phone">1212211212</FL>
 <FL val="Fax">02927272626</FL>
 <FL val="Mobile">292827622</FL>
+<FL val="Lugar de preferencia del Evento">jajajaja</FL>
+<FL val="Horario probable del evento">jajajaja</FL>
 </row>
 </Leads>
 ';
